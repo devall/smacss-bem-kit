@@ -1,7 +1,7 @@
-@import "utilities/mixins.scss";
-@import "utilities/variables.scss";
-@import "utilities/fonts.scss";
-@import "utilities/sprites.scss";
+@import "utilities/mixins";
+@import "utilities/variables";
+@import "utilities/fonts";
+@import "utilities/sprites";
 
 /* Base */
 @import "base/normalize";
@@ -9,7 +9,13 @@
 @import "base/print";
 
 /* Layout */
-@import "layout/container";
+//@import "layout/file";
 
-/* Media queries */
-@import "_print";
+/* Module */
+//@import "module/file";
+
+/* State */
+//@import "state/file";
+
+/* Theme */
+//@import "theme/file";
