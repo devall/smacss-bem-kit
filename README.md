@@ -1,5 +1,4 @@
 SMACSS-BEM-Kit
-
 ================
 
 The boilerplate for quickly starting off your projects. The CSS is handled with a SMACSS structure and BEM naming for maintainability.
